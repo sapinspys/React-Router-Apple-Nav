@@ -15,6 +15,15 @@
 * You'll need a reusable `Nav` component that you can turn into a navigation link for each parent category.
 * Lastly you're going to need some sort of `SubNav` component, that will be reusable and display your sub-navigation links for each category.
 
+### Notes
+
+1. Create repo on Github (in this case just fork)
+2. Clone repo to local machine
+3. cd desktop/../my-repo
+4. yarn create react-app app-name
+5. cd my-repo
+6. yarn start
+
 ### Stretch Problem
 
 * Once you are finished with the Navigation and SubNavigation components you'll be able to look into ways to extend this application by adding some smooth transitions. Look into [this article](https://hackernoon.com/animated-page-transitions-with-react-router-4-reacttransitiongroup-and-animated-1ca17bd97a1a) for an example of how this can be achieved.
